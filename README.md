@@ -1,7 +1,10 @@
 # DesignPattern
 Android源码设计模式解析与实战读书笔记源代码
 
-使用方法：
+说明：
 
-包名factorypattern.normal表示的是工厂方法的普通用法
-包名factorypattern.practices表示的是工厂方法的常用
+包名factorypattern.normal表示的是工厂方法模式的普通用法
+包名factorypattern.practices表示的是工厂方法模式的常用
+
+包名observerpattern表示的是观察者模式的简单例子
+
