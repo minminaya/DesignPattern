@@ -10,3 +10,5 @@ Android源码设计模式解析与实战读书笔记源代码
 
 包名strategy_pattern表示的是策略模式的简单例子
 
+包名adapter_pattern表示的是适配器模式的简单例子
+
