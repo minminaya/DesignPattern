@@ -18,3 +18,7 @@ Android源码设计模式解析与实战读书笔记源代码
 包名decorator_pattern.example_one表示的是装饰模式的简单例子1
 
 包名decorator_pattern.example_2表示的是装饰模式的简单例子2（人穿什么衣服的例子，比较直观的表达装饰者模式）
+
+包名facade_pattern表示的是外观模式的简单例子
+
+![phone](\img\phone.png)
