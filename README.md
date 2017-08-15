@@ -22,5 +22,3 @@ Android源码设计模式解析与实战读书笔记源代码
 包名facade_pattern表示的是外观模式的简单例子
 
 ![phone](DesignPattern/img/phone.png)
-
-包名template_method_pattern表示的是模版方法模式的简单例子
