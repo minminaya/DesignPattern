@@ -1,7 +1,9 @@
 # DesignPattern
 Android源码设计模式解析与实战读书笔记源代码
 
-说明：
+[博客文集](https://www.jianshu.com/nb/14730921)
+
+# 说明：
 
 包名factorypattern.normal表示的是工厂方法模式的普通用法
 
@@ -28,3 +30,7 @@ Android源码设计模式解析与实战读书笔记源代码
 包名state_pattern表示的是状态模式的简单例子
 
 包名state_pattern.normal表示的是无状态模式的例子
+
+---
+
+end
